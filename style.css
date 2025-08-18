@@ -79,8 +79,8 @@
         }
 
         .imagen {
-        margin-top: 30px; /* espacio desde el section */
-        text-align: center; /* opcional, para centrar la imagen */
+        margin-top: 30px; 
+        text-align: center;
         }
 
         .imagen img {
